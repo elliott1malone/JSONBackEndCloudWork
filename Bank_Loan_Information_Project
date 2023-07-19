@@ -1,0 +1,88 @@
+[
+    {
+        "name": "Mr Elliott Thomas",
+        "purposeOfLoan": "To build an extension to my house",
+        "loanDetails": {
+            "amount": 50000.00,
+            "startDate": "2023-12-06",
+            "endDate": "2025-03-19"
+        }
+    },
+    {
+        "jobs": [
+            "Software Developer",
+            {
+                "titles": "Lead Software Developer",
+                "annualIncome": 85000.00,
+                "yearsActive": 3
+            },
+            "Cloud Engineer",
+            {
+                "titles": "Cloud Engineer",
+                "annualIncome": 85000.00,
+                "yearsActive": 3
+            },
+            "Barber",
+            {
+                "titles": "Barber",
+                "annualIncome": 55000.00,
+                "yearsActive": 4
+            },
+            "Podcaster",
+            {
+                "titles": "Podcaster",
+                "annualIncome": 35000.00,
+                "yearsActive": 2
+            },
+            "Producer & Sound Designing Engineer",
+            {
+                "titles": "Producer & Sound Designing Engineer",
+                "annualIncome": 65000.00,
+                "yearsActive": 1
+            },
+            "Claims Representative",
+            {
+                "titles": "Claims Representative",
+                "annualIncome": 85000.00,
+                "yearsActive": 2
+            }
+        ]
+    },
+    {
+        "name": "Mrs Brittany Thomas",
+        "purposeOfLoan": "To build online courses for cooking recepies for second income",
+        "loanDetails": {
+            "amount": 25000.00,
+            "startDate": "2023-12-06",
+            "endDate": "2025-03-19"
+        }
+    },
+    {
+        "jobs": [
+            "Nutritionist",
+            {
+                "titles": "Nutritionist",
+                "annualIncome": 75000.00,
+                "yearsActive": 3
+            },
+            "Food Enthusiast",
+            {
+                "titles": "Food Enthusiast",
+                "annualIncome": 35000.00,
+                "yearsActive": 5
+            },
+            "Food & Nutritional Therapist",
+            {
+                "titles": "Food & Nutritional Therapist",
+                "annualIncome": 90000.00,
+                "yearsActive": 2
+            },
+            "Blog & Influencer",
+            {
+                "titles": "Blog & Influencer",
+                "annualIncome": 55000.00,
+                "yearsActive": 5
+            }
+        ]
+    }
+]
