@@ -1,0 +1,48 @@
+import json
+
+x = {
+    "Name": "Elliott Thomas",
+    "Age": 35,
+    "Occupation": ["Producer", "Barber", "Developer", "Cloud Engineer"],
+    "Employer": "State Farm",
+    "Loan Amount Requested": "275,000",
+    "Financial Institution": ["Chase Bank", "Merrill Lynch"],
+    "Income": "85,000",
+    "Vehicle": [
+        {"Model": "Nissan Altima SR", "MPG": 24.5}
+    ]
+}
+
+print(json.dumps(x, indent=2))
+
+
+y = {
+    "Name": "Elias",
+    "Age": 18,
+    "Occupation": ["Sports Analyst", "Journalist", "Basketball Player", "College Student"],
+    "Employer": "Dallas Baptist University",
+    "Loan Amount Requested": "100,000",
+    "Financial Institution": ["Chase Bank", "Merrill Lynch"],
+    "Income": "15,000",
+    "Vehicle": [
+        {"Model": "Toyota Camry", "MPG": 24.5}
+    ]
+}
+
+print(json.dumps(y, indent=2))
+
+z = {
+    "Name": "Brittany Thomas",
+    "Age": 35,
+    "Occupation": ["Nutritionist/Scientist", "Food Science", "Dietitian", 
+    "Student"],
+    "Employer": "Pearson Middle School",
+    "Loan Amount Requested": "275,000",
+    "Financial Institution": ["Chase Bank", "Merrill Lynch"],
+    "Income": "65,000",
+    "Vehicle": [
+        {"Model": "Ford Focus", "MPG": 30.5}
+    ]
+}
+
+print(json.dumps(z, indent=2))
